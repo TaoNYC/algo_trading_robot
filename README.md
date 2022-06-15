@@ -1,1 +1,1 @@
-# algo_trading_robot
+# Algo_Trading_Bot
